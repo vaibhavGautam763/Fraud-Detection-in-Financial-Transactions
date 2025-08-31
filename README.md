@@ -1,9 +1,6 @@
 # Fraud-Detection-in-Financial-Transactions
 Data Science Project
 
-# Fraud Detection in Financial Transactions
-
-**Author:** Vaibhav Gautam  
 **Project Type:** Machine Learning / Data Science Internship Project  
 **Dataset:** Financial transactions (~6.36M rows, 10 columns)
 
@@ -95,8 +92,7 @@ fraud-detection/
 ---
 
 ## Contact
-
-**Vaibhav Gautam**  
+**Author:** Vaibhav Gautam  
 Email: gautamvaibhav020@gmail.com 
 LinkedIn: https://www.linkedin.com/in/vaibhav-gautam-8b3ab71a9/
 
